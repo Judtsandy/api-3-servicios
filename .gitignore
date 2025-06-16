@@ -1,3 +1,12 @@
 node_modules/
 package-lock.json
 mongodb_data/
+.env
+.env.local
+.env.production
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.vscode/
+.idea/
