@@ -11,10 +11,10 @@
     "node": ">=18.0.0",
     "npm": ">=8.0.0"
   },
-  "keywords": ["api", "servicios", "express", "mongodb"],
+  "keywords": ["api", "servicios", "express", "mongodb", "railway"],
   "author": "",
   "license": "ISC",
-  "description": "API REST para gestión de servicios",
+  "description": "API REST para gestión de servicios - Desplegada en Railway",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.2",
